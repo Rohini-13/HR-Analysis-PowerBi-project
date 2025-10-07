@@ -11,7 +11,7 @@ The dashboard offers multi-level analysis across three pages:
 - 1 Excel file: hr-data-analysis (1)
 
    ## Key Features
-  -**Total Employees**: 161
+- **Total Employees**: 161
  - **Total Female Employees**: 88 (55%)
  - **Total Male Employees** : 73 (45%)
 - **Average Salary**: $54,231
@@ -27,7 +27,7 @@ The dashboard offers multi-level analysis across three pages:
 
   ## Dashboard Pages & Features
   ### HR Overview
-  - KPIs: Employee count, salary, and gender ratio
+- KPIs: Employee count, salary, and gender ratio
 - Visuals:- Donut Chart: Employees by Gender
 - Bar Chart: Employees by Job Title
 - Column Chart: Employees by Education Qualification
@@ -35,14 +35,14 @@ The dashboard offers multi-level analysis across three pages:
 - Filters: Year of Join, Education Qualification, Job Title
 
   ### Employee Analysis
-  - KPIs: Avg Leave Balance, Avg Age, Gender %, New Joiners
+- KPIs: Avg Leave Balance, Avg Age, Gender %, New Joiners
 - Charts:Donut Chart: Employees by Age Group
 - Bar Charts: Top 3 Salaried Employees & Highest Leave Balances
 - Line Chart: Monthly Employee Count
 - Bar: Avg Leave Balance by Gender
 
   ## Employee Details page(Drillthrough page)
-  - Drillthrough Fields: Job Title (from HR Overview or Analysis page)
+- Drillthrough Fields: Job Title (from HR Overview or Analysis page)
 Table Columns:Employee ID, Employee Name, Gender, Salary, Job Title, Year of Join, Age, Years of Completion and Leave Balance
 
 ✅ Users can right-click on any Job Title (e.g., Product Manager) → Drillthrough → Employee Details to explore detailed records.
