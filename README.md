@@ -22,8 +22,8 @@ The dashboard offers multi-level analysis across three pages:
   
 🏆 Top Paid Job Role:
 - **Role**: Product Manager
-- **Average Salary**: $85,000
-- **Average Years of Completion**: 4.8
+- **Highest Employee Salary**: $85,000
+- **Average Years of Completion**: 4.8 years
 
   ## Dashboard Pages & Features
   ### HR Overview
