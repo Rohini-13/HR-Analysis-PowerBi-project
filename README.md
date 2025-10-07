@@ -27,19 +27,19 @@ The dashboard offers multi-level analysis across three pages:
 
   ## Dashboard Pages & Features
   ### HR Overview
-- KPIs: Employee count, salary, and gender ratio
-- Visuals:- Donut Chart: Employees by Gender
-- Bar Chart: Employees by Job Title
+- KPIs: Employee count, average salary, and gender ratio
+- Employees by Gender
+- Employees by Job Title
 - Column Chart: Employees by Education Qualification
 - Line Chart: Female Employee % Trend (2017–2023)
-- Filters: Year of Join, Education Qualification, Job Title
+- Slicers: Year of Join, Education Qualification, Job Title
 
   ### Employee Analysis
 - KPIs: Avg Leave Balance, Avg Age, Gender %, New Joiners
-- Charts:Donut Chart: Employees by Age Group
-- Bar Charts: Top 3 Salaried Employees & Highest Leave Balances
-- Line Chart: Monthly Employee Count
-- Bar: Avg Leave Balance by Gender
+- Donut Chart: Employees by Age Group
+- Top 3 Salaried & Top 3 Highest Leave Balance Employees
+- Monthly Employee Count
+- Avg Leave Balance by Gender
 
   ## Employee Details page(Drillthrough page)
 - Drillthrough Fields: Job Title (from HR Overview or Analysis page)
