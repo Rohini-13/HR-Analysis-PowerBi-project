@@ -11,15 +11,15 @@ The dashboard offers multi-level analysis across three pages:
 - 1 Excel file: hr-data-analysis (1)
 
    ## Key Features
-  - **Total Employees**: 161
+  -**Total Employees**: 161
  - **Total Female Employees**: 88 (55%)
- - - **Total Male Employees** : 73 (45%)
+ - **Total Male Employees** : 73 (45%)
 - **Average Salary**: $54,231
 -**Overall Payroll**: $8.7M
 - **Average Leave Balance**: 16 days
 - **Average Age**: 35 years
 - **New Joiners (2023)**: 20
-- 
+  
 🏆 Top Paid Job Role:
 - **Role**: Product Manager
 - **Average Salary**: $85,000
