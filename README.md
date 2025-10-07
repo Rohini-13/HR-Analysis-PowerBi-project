@@ -12,8 +12,8 @@ The dashboard offers multi-level analysis across three pages:
 
    ## Key Features
   - **Total Employees**: 161
-  - **Total Female Employees**: 88 (55%)
-- **Total Male Employees** : 73 (45%)
+ - **Total Female Employees**: 88 (55%)
+ - - **Total Male Employees** : 73 (45%)
 - **Average Salary**: $54,231
 -**Overall Payroll**: $8.7M
 - **Average Leave Balance**: 16 days
